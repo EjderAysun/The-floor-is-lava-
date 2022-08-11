@@ -26,5 +26,5 @@
 ---
 ## Licence & Copyright
 © Ejder Aysun, The floor is lava!
-Licensed under the [MIT Licence](https://github.com/EjderAysun/University-Library-Information-System/blob/main/LICENCE).
+Licensed under the [MIT Licence](https://github.com/EjderAysun/The-floor-is-lava-/blob/main/LICENCE).
 
