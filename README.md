@@ -29,7 +29,7 @@ Released; project is complete, but might receive some updates
 
 ---
 ## Contributors
-* for ScriptTest scene: https://www.youtube.com/watch?v=FDNCwgchhZM
+for ScriptTest scene: https://www.youtube.com/watch?v=FDNCwgchhZM
 
 ---
 ## Licence & Copyright
